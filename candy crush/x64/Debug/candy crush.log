@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Adarsh\source\repos\candy crush\candy crush\main.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adarsh\source\repos\candy crush\candy crush\main.cpp(154,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adarsh\source\repos\candy crush\candy crush\main.cpp(154,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adarsh\source\repos\candy crush\candy crush\main.cpp(155,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adarsh\source\repos\candy crush\candy crush\main.cpp(155,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  candy crush.vcxproj -> C:\Users\Adarsh\source\repos\candy crush\x64\Debug\candy crush.exe
